@@ -72,5 +72,5 @@ class Solution {
  * After fixing that, this solution passes all test cases.
  * Memory of 65.28 MB beats 100% of java submissions.
  * 
- * I'm surprised this was a Medium difficulty problem. It felt very straightforward.
+ * I'm surprised this was a Medium difficulty problem. It felt relatively straightforward.
  */
